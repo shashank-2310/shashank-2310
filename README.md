@@ -80,6 +80,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shashank-2310/shashank-2310/output/snake.svg" alt="Snake animation" />
 
 ###
