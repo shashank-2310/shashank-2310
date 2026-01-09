@@ -24,16 +24,16 @@
 ## 🛠️ Tech Stack
 
 ### **Programming & Scripting**
-[![Skills](https://skillicons.dev/icons?i=python,bash)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,bash,fastapi)](https://skillicons.dev)
 
 ### **Cloud & DevOps**
-[![Skills](https://skillicons.dev/icons?i=aws,docker,jenkins)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform)](https://skillicons.dev)
 
 ### **OS & Networking**
 [![Skills](https://skillicons.dev/icons?i=linux,ubuntu)](https://skillicons.dev)
 
 ### **Version Control**
-[![Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
  ### **Databases & Monitoring**
 [![Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
