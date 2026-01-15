@@ -24,19 +24,28 @@
 ## 🛠️ Tech Stack
 
 ### **Programming & Scripting**
-[![Skills](https://skillicons.dev/icons?i=python,bash,fastapi)](https://skillicons.dev)
+![Skills](https://skillicons.dev/icons?i=python,bash)
 
-### **Cloud & DevOps**
-[![Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform)](https://skillicons.dev)
+### **Backend & APIs**
+![Skills](https://skillicons.dev/icons?i=fastapi)
+<img width="50" height="50" alt="boto3" src="https://github.com/user-attachments/assets/a8e21c33-40e1-4523-bdb3-3c47ee636fa0" />
 
-### **OS & Networking**
-[![Skills](https://skillicons.dev/icons?i=linux,ubuntu)](https://skillicons.dev)
 
-### **Version Control**
-[![Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
- ### **Databases & Monitoring**
-[![Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+### **Cloud Platforms**
+![Skills](https://skillicons.dev/icons?i=aws)
+
+### **DevOps, CI/CD & Infrastructure**
+![Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform)
+
+### **Operating Systems**
+![Skills](https://skillicons.dev/icons?i=linux,ubuntu)
+
+### **Version Control & Collaboration**
+![Skills](https://skillicons.dev/icons?i=git,github)
+
+ ### **Databases**
+![Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
 
 ---
 
