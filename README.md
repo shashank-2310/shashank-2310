@@ -33,7 +33,7 @@
 
 
 ### **Cloud Platforms**
-![Skills](https://skillicons.dev/icons?i=aws)
+![Skills](https://skillicons.dev/icons?i=aws,azure)
 
 ### **DevOps, CI/CD & Infrastructure**
 ![Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform)
