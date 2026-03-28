@@ -24,18 +24,16 @@
 ## 🛠️ Tech Stack & Tools
 
 ### **Agentic & Generative AI**
-![openai](https://www.readmecodegen.com/api/social-icon?name=openai&size=40)
-![langchain](https://www.readmecodegen.com/api/social-icon?name=langchain&size=48)
-![jupyter](https://www.readmecodegen.com/api/social-icon?name=jupyter&size=48)
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=jupyter,langchain,chatgpt,googlegemini,groq,modelcontextprotocol)
 
 ### **Programming & Scripting**
-![Skills](https://skillicons.dev/icons?i=python,bash)
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=python,gitbash,powershell)
 
 ### **Cloud Platforms**
 ![Skills](https://skillicons.dev/icons?i=aws,azure)
 
 ### **Backend & APIs**
-![Skills](https://skillicons.dev/icons?i=fastapi)
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=fastapi)
 <img width="50" height="50" alt="boto3" src="https://github.com/user-attachments/assets/a8e21c33-40e1-4523-bdb3-3c47ee636fa0" />
 
 ### **Infrastructure as Code & Automation**
